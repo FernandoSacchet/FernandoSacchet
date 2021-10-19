@@ -1,4 +1,4 @@
-@FernandoSacchet, desenvolverdor desde 2008;
+@FernandoSacchet, progamando desde 2008;
 
 Atualmente trabalhando com ruby on rails.
 
